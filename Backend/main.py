@@ -4,6 +4,10 @@ import subprocess
 import pandas as pd
 import csv
 
+
+## CORRER API
+# uvicorn main:app --reload
+# main = nombre de archivo py              app = instancia de FASTAPI()
 app = FastAPI()
 app.title = "BASES CONSULTASs"
 
