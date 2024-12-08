@@ -77,4 +77,5 @@ CREATE FOREIGN TABLE public.employees_employee_id_seq (
 	log_cnt int8 NULL,
 	is_called bool NULL
 )
-SERVER postgres-jdbc_srv;
+SERVER postgres-jdbc_srv;dsfs
+fdfd
